@@ -174,6 +174,5 @@ To exit the Phone Directory Management System, simply choose option 0 or follow 
 - **Vaibhav Sharma** - [@itsVaibhavSharma](https://github.com/itsVaibhavSharma)
 
 ## Acknowledgments
-
+ 
 We would like to express our gratitude to our mentors and professors who provided invaluable guidance and support throughout the development of this project.
-
